@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I’m a Experienced Data Analyst with over three years of experience in data visualization, predictive modeling, and data-driven decision-making. With a Master's degree in Safety, Health, and Environment and a B.Sc. in Marketing, I bring a unique blend of analytical rigor and business acumen to my projects.<br><br>🔍 My technical toolkit includes advanced proficiency in Python, SQL, Excel, Tableau, and Power BI, tools I leverage to transform complex data sets into actionable insights. Having worked in the IT industry and the UK healthcare sector, I am well-versed in navigating diverse data challenges across different domains.<br><br>🌐 I am passionate about using data to solve real-world problems and am always eager to collaborate on projects that seek to make a meaningful impact through innovative data solutions. You can check out some of my work on projects like the Instacart Grocery Basket Analysis and the CitiBike Data Analysis on my GitHub.<br><br>📈 I am continually seeking to enhance my skills and am particularly interested in the intersection of data science and machine learning. Currently, I am actively looking for new job opportunities as a Data Analyst where I can bring my expertise to dynamic teams looking to make data-driven decisions and innovate.<br><br>🔗 Let’s connect! I’m open to discussing potential job opportunities and collaborations that leverage our mutual interests in data analytics and impactful solutions.
 
-<!--
-**Okumbor/Okumbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Okumbor&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Okumbor&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Okumbor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=Okumbor&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
